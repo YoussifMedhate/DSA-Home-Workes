@@ -89,5 +89,6 @@ Computer Science Student — Passionate about mastering Data Structures and Algo
 ## 🏁 Notes
 
 This repository is meant for educational and reference purposes —  
-to help others understand and apply core Data Structures concepts efficiently —
-And to Dr/Heba review my codes.
+to help others understand and apply core Data Structures concepts efficiently —  
+and for **Dr. Heba El-Hadidy** to review and evaluate my submitted codes.
+
