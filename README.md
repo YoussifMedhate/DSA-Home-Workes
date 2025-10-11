@@ -35,19 +35,15 @@ Some folders may also contain:
 
 The homeworks and exercises in this repo cover a wide range of **Data Structures & Algorithms** concepts, including:
 
+- Time & Space Complexity Analysis
 - Arrays and Searching Algorithms  
-  (Linear, Binary, Jump, Interpolation, Ternary Search, etc.)
 - Sorting Techniques  
-  (Bubble, Selection, Insertion, Merge, Quick Sort, etc.)
 - Stacks and Queues  
-  (Implementation using Lists, Linked Lists)
 - Linked Lists  
-  (Singly, Doubly, and Circular)
 - Trees and Binary Search Trees (BST)
-- Hash Tables
 - Graphs (Basics and Traversal: BFS, DFS)
 - Recursion and Divide & Conquer
-- Time & Space Complexity Analysis
+
 
 ---
 
@@ -78,7 +74,7 @@ Besides the homework tasks, some folders contain self-practice exercises to rein
 
 **Youssif Medhat Esmail El-layeh**  
 Computer Science Student — Passionate about mastering Data Structures and Algorithms.  
-📫 [GitHub Profile](https://github.com/YOUR-USERNAME)
+📫 [GitHub Profile](https://github.com/YoussifMedhate)
 
 ---
 
@@ -93,4 +89,5 @@ Computer Science Student — Passionate about mastering Data Structures and Algo
 ## 🏁 Notes
 
 This repository is meant for educational and reference purposes —  
-to help others understand and apply core Data Structures concepts efficiently.
+to help others understand and apply core Data Structures concepts efficiently —
+And to Dr/Heba review my codes.
