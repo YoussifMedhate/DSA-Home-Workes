@@ -1,7 +1,5 @@
 """
 Python Set Built-in Functions Task File
-Includes all built-in functions usable with sets, their basic usage, and examples.
-Compact and ready for submission.
 """
 
 # -----------------------------
