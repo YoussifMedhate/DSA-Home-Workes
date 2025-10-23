@@ -1,4 +1,4 @@
-rom collections import deque
+from collections import deque
 
 def check_parentheses(expression: str) -> bool:
     """Checks if all parentheses and brackets are balanced."""
