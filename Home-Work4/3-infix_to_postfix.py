@@ -8,7 +8,7 @@ def precedence(oper: str) -> int:
         return 3
     return -1
 
-
+# handle (+, -, *, /, ^, () ) and number must be in range(0, 10) 
 def infix_to_postfix(infix: str)->str:
     """dijkstra to convert infix -> postfix
     add check practes
