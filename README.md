@@ -52,7 +52,7 @@ The homeworks and exercises in this repo cover a wide range of **Data Structures
 You can clone this repository and run any task directly using Python:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/DSA-Home-Works.git
+git clone https://github.com/YoussifMedhate/DSA-Home-Works.git
 cd DSA-Home-Works/HomeWork1
 python task0.py
 ```
