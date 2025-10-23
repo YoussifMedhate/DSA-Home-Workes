@@ -1,3 +1,4 @@
+#  I tried covering all wrong cases :)
 def check_infix(expression: str) -> bool:
     operatores = ('+', '-', '*', '/')
     l = len(expression)
