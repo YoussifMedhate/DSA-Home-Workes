@@ -22,7 +22,6 @@ def evaluate_postfix(exprission: str)->int:
        finally return stack.pop()
     
     """
-  
     stkNumbers = deque()
     
     for element in exprission:
